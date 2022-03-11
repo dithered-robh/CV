@@ -1,0 +1,25 @@
+body {
+    background-color: #F4FCD9;
+}
+hr {
+    border-style: none;
+    border-top: 3px dotted;
+    color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+img {
+    height: 120px;
+}
+.skills  {
+    align-content: center;
+}
+h1, h3 {
+    color: #BB9981;
+}
+table {
+    border-spacing: 20px;
+}
+td {
+    color: #534340;    
+}
